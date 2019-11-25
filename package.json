@@ -10,7 +10,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "typescript": "latest"
+    "typescript": "^3.7.2"
   },
   "scripts": {
     "dev": "next",
